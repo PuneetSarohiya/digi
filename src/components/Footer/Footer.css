@@ -1,0 +1,149 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.footer{
+    background: url(/src/components/Footer/Footer\ image.jpg);
+    width: 100%;
+    height:70vh;
+    background-size: 100% 100%;
+
+}
+ .footer-video{
+    width: 250px;
+    margin-left: 50px;
+    justify-content: center;
+    margin-top: 140px;
+    border: 6px solid white;
+}
+
+.foot{
+    display: flex;
+    justify-content: space-around;
+    /* background-color: black; 
+    height: 65vh; */
+}
+/* .row{
+
+    height: 70vh;
+} */
+.footer-col{
+    padding: 0 15px;
+    margin-top: 32px;
+}
+.footer-coll{
+    width:12%;
+    margin-top: 40px;
+}
+.footer-coll p{
+    color: white;
+    font-size: 14px;
+    line-height: 31px;
+    font-weight: 600;
+    word-spacing: 5px;
+    margin-top: 5px;
+}
+h1{
+    color:rgba(255,168,0,255);
+    font-weight: 700;
+    font-size: 27px;
+}
+input{
+    padding: 8px;
+    margin-top: 15px;
+    width:60%;
+    margin-right: 20PX;
+    font-size: 10px;
+    border: none;
+    outline: none;
+     border-radius: 3px;
+}
+.btn{
+    padding: 5px 7px;
+    background-color:rgba(255,168,0,255);
+    border-radius: 2px;
+    margin-top: 20px;
+    border: none;
+    font-size: 10px;
+    width: 80px;
+    margin-right: 170px;
+}
+h2{
+    color: rgba(255,168,0,255);
+    letter-spacing: 1px;
+    font-size: 17px;
+    margin-right: 120px;
+}
+ul,li{
+    list-style: none;
+    padding: 5px 0;
+    color: white;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.link-box{
+    color: rgba(255,168,0,255);
+    font-size: 25px;
+    font-weight: 700;
+
+}
+.bottom-details{
+    width: 100%;
+
+}
+.footer .bottom-details .copyright{
+    display: flex;
+    justify-content: space-around;
+} 
+.bottom-col a{
+    color:  white;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 0 10px ;
+}
+.bottom-details{
+    color: white;
+    font-size:10px;
+
+}
+span{
+    color: rgba(255,168,0,255);
+}
+.footer-col h1{
+    color: rgba(255,168,0,255);
+    font-size: 28px;
+}
+.footer-col p{
+    color: white;
+    font-size: 40px;
+}
+.copyright h1{
+    color: white;
+    font-size: 15px;
+    margin-top: 40px;
+    margin-right: 200px; 
+}
+.bottom-col{
+    margin-top: 40px;
+}
+.bottom-col a{
+    font-size: 15px;
+    font-weight: 500;
+}
+.logo-image{
+    width: 170px;
+    margin-left: 130px;
+}
+.form p{
+    color: white;
+    margin-top: 15px;
+    font-weight: 400;
+}

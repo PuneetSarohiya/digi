@@ -1,0 +1,51 @@
+.test-image{
+    width:80px;
+}
+.testmonials-cards{
+    background-color: white;
+    height: 100vh;
+    position: relative;
+}
+.testmonials-heading h1{
+    font-size: 30px;
+    color: black;
+    text-decoration: underline;
+    font-weight: 700;
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+.test-row{
+    display: flex;
+    margin-left: 90px;
+    align-items: center;
+    gap: 4rem;
+    margin-top: 120px;
+}
+.test-container{
+    background-color: white;
+    padding: 10px 20px;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.6);
+}
+.card-textt h5{
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 15px;
+    text-decoration: underline;
+}
+.card-bottom{
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-decoration: solid;
+}
+.desc{
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 10px;
+    color: gray;
+}
+.test-card{
+    width: 270px;
+}
